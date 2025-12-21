@@ -81,6 +81,7 @@ These analyses provide **interpretability and diagnostic insights** into model b
 
 - There are two types of datasets used: (1) train_data and (2) test_data. The folder train_data contains 478 car images with subfolders (a) Convertible, (b) Hatchback and (c) Sedan. The test_data folder contain only 54 car images.
 - There is one CSV file which gives a clear information about brands and types of the cars.
+- 
 
 ---
 
@@ -110,6 +111,13 @@ https://colab.research.google.com/github/YOUR_USERNAME/car-brand-type-classifica
 - AI-driven automotive startups
 - Research and benchmarking
 
+---
+
+## 💻 Google Drive Link
+👉 **Check out the link here for more details:**  
+🔗 https://drive.google.com/drive/folders/1qgUuWCbQyLyzA7KEEqHnmphKa1ypvF7F?usp=sharing
+
+---
 
 ## 👤 About Author
 ### Parmesh Kumar
@@ -118,6 +126,7 @@ MBA (Data Science) -IIM Visakhapatnam
 MSc (Physics) - IIT Kharagpur
 
 This project is created and maintained by **Parmesh Kumar**.
+
 
 📄 Read more about the author here:  
 👉 [Author.md](Author.md)
