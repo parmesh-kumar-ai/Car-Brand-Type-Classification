@@ -113,9 +113,10 @@ https://colab.research.google.com/github/YOUR_USERNAME/car-brand-type-classifica
 
 ---
 
-## 💻 Google Drive Link
+## 🌐 Google Drive Link
 👉 **Check out the link here for more details:**  
 🔗 https://drive.google.com/drive/folders/1qgUuWCbQyLyzA7KEEqHnmphKa1ypvF7F?usp=sharing
+🔗 https://l1nk.dev/CarBrandAndVehicleTypeClassification
 
 ---
 
