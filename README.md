@@ -1,11 +1,8 @@
-# Car-Brand-Type-Classification
-EfficientNetB0-based car brand &amp; type classification with bounding boxes
+# 🚗 Car Brand & Vehicle Type Classification
+**A Multi-Task Computer Vision Study using EfficientNetB0-based car brand and type classification with bounding boxes**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/YOUR_USERNAME/car-brand-type-classification/blob/main/notebooks/Car_Brands_and_Type_Project.ipynb
 )
-
-# 🚗 Car Brand & Vehicle Type Classification
-### A Multi-Task Computer Vision Study Using EfficientNet
 
 ---
 
