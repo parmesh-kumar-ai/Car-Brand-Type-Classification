@@ -77,18 +77,47 @@ These analyses provide **interpretability and diagnostic insights** into model b
 
 - Image metadata handled via CSV files
 - Bounding-box guided cropping for vehicle localization
-- Robust handling of invalid or missing annotations
 
 ---
 
-## 📁 Repository Structure
+## 📁 Input Car Image Data
 
 - There are two types of datasets used: (1) train_data and (2) test_data. The folder train_data contains 478 car images with subfolders (a) Convertible, (b) Hatchback and (c) Sedan. The test_data folder contain only 54 car images.
 - There is one CSV file which gives a clear information about brands and types of the cars.
 
 ---
 
+## ▶️ How to Run
+### Open the notebook or click on Google Colab
+CarBrand&TypeClassification.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/YOUR_USERNAME/car-brand-type-classification/blob/main/notebooks/Car_Brands_and_Type_Project.ipynb
+)
+
+---
+
+## 🧩 Technology Stack
+- Python
+- TensorFlow / Keras
+- OpenCV
+- NumPy and Pandas
+- Scikit-learn
+- Matplotlib and Seaborn
+
+---
+
+## 🚀 Applications
+- Automotive Analytics
+- Intelligent transport systems
+- Vehicle inspection platforms
+- AI-driven automotive startups
+- Research and benchmarking
+
+
 ## 👤 About Author
+### Parmesh Kumar
+MBA (Data Science) -IIM Visakhapatnam
+MSc (Physics) - IIT Kharagpur
 
 This project is created and maintained by **Parmesh Kumar**.
 
