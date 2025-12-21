@@ -87,7 +87,7 @@ These analyses provide **interpretability and diagnostic insights** into model b
 
 ## ▶️ How to Run
 ### Open the notebook or click on Google Colab
-[Car Brand & Type Classification Notebook] (CarBrand&TypeClassification.ipynb)
+![Car Brand & Type Classification Notebook](CarBrand&TypeClassification.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/YOUR_USERNAME/car-brand-type-classification/blob/main/notebooks/Car_Brands_and_Type_Project.ipynb
 )
