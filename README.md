@@ -56,9 +56,6 @@ This project explores a **multi-task learning approach** to address these challe
 The notebook includes **in-depth evaluation**, going beyond aggregate accuracy:
 
 - Confusion matrices (raw and normalized)
-- Per-class accuracy analysis
-- Top-1, Top-3, and Top-5 accuracy
-- Misclassification analysis with confidence scores
 
 These analyses provide **interpretability and diagnostic insights** into model behavior.
 
@@ -117,6 +114,7 @@ https://colab.research.google.com/github/YOUR_USERNAME/car-brand-type-classifica
 ## 👤 About Author
 ### Parmesh Kumar
 MBA (Data Science) -IIM Visakhapatnam
+
 MSc (Physics) - IIT Kharagpur
 
 This project is created and maintained by **Parmesh Kumar**.
