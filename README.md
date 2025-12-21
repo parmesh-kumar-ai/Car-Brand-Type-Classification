@@ -67,6 +67,15 @@ These analyses provide **interpretability and diagnostic insights** into model b
 
 ---
 
+## 📊 Dashboard Preview
+
+### Sentiment Analysis and SEBI Fraud Risk Analysis Module
+![Preview of Confusion Matrix (raw and Normalized)](ConfusionMatrices.png)
+
+![Preview of Model Accuracy over Brand, Type and Loss](AccuracyOverBrandTypeAndLoss.png)
+
+---
+
 ## 🧪 Data Handling
 
 - Image metadata handled via CSV files
@@ -76,4 +85,16 @@ These analyses provide **interpretability and diagnostic insights** into model b
 ---
 
 ## 📁 Repository Structure
+
+- There are two types of datasets used: (1) train_data and (2) test_data. The folder train_data contains 478 car images with subfolders (a) Convertible, (b) Hatchback and (c) Sedan. The test_data folder contain only 54 car images.
+- There is one CSV file which gives a clear information about brands and types of the cars.
+
+---
+
+## 👤 About Author
+
+This project is created and maintained by **Parmesh Kumar**.
+
+📄 Read more about the author here:  
+👉 [Author.md](Author.md)
 
